@@ -2,6 +2,33 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=0011FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Griselda+Hutahaean!;Lifelong+Learner+%7C+Tech+Explorer+%7C;Dream+Chaser+^^;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
+<br/>
+
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
+  KeepGrowing(); 💡
+</h3>
+
+<br/>
+
+<p align="center">
+  <a href="mailto:griseldatabita@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/griselda-tabitha-nathania-hutahaean" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/765371323723415582" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tbthaa._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+</p>
+
 <!--
 **GriseldaHutahaean/GriseldaHutahaean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

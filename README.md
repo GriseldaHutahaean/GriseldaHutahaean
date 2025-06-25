@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=0011FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Griselda+Hutahaean!;Lifelong+Learner+%7C+Tech+Explorer+%7C;Dream+Chaser+^^;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-<!-- Mengurangi jarak vertikal -->
-<p align="center" style="margin-top:-20px;">
+<p align="center" style="margin-top: -20px;">
   <a href="mailto:griseldatabita@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -18,14 +17,9 @@
   </a>
 </p>
 
-<!-- Tambahkan jarak sedikit ke bawah baru KeepGrowing -->
-<p align="center">
-  <img src="https://github.com/GriseldaHutahaean/GriseldaHutahaean/assets/placeholder-transparent.png" width="1" height="10" />
+<p align="center" style="font-size: 16px; font-family: 'Dancing Script', cursive; color: #006400;">
+  <i>KeepGrowing(); 💡</i>
 </p>
-
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">
-  KeepGrowing(); 💡
-</h3>
 
 <!--
 **GriseldaHutahaean/GriseldaHutahaean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

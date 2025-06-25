@@ -17,8 +17,8 @@
   </a>
 </p>
 
-<p align="center" style="font-size: 16px; font-family: 'Dancing Script', cursive; color: #006400;">
-  <i>KeepGrowing(); 💡</i>
+<p align="center" style="font-size:12px; color: #006400;">
+  <i>KeepGrowing();💡</i>
 </p>
 
 <!--

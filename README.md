@@ -1,4 +1,7 @@
 ## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=0011FF&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Griselda+Hutahaean!;Lifelong+Learner+%7C+Tech+Explorer+%7C;Dream+Chaser+^^;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</h1>
 
 <!--
 **GriseldaHutahaean/GriseldaHutahaean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
